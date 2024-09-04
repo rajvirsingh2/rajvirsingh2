@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Rajvir Singh, a B.Tech student at Atal Bihari Vajpayee Indian Institute of Information Technology and Management. I'm passionate about Android development, specializing in Kotlin, Java, and a range of related technologies like MySQL, SQLite, Firebase, and Git version control. My GitHub profile showcases my commitment to creating innovative mobile apps, with two standout projects - a chat application and a Weather app. I'm enthusiastic about open-source contributions in the field of app development and always eager to collaborate. Let's connect and code together!
+Hello, I'm Rajvir Singh, a B.Tech student at Atal Bihari Vajpayee Indian Institute of Information Technology and Management. I'm passionate about Android development, specializing in Kotlin, Java, and a range of related technologies like MySQL, SQLite, Firebase, and Git version control. My GitHub profile showcases my commitment to creating innovative mobile apps, with two standout projects - Google Assitant Clone App and a Smart Expense Tracker App. I'm enthusiastic about open-source contributions in the field of app development and always eager to collaborate. Let's connect and code together!
 
 
 ## 🌐 Socials:
